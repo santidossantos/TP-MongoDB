@@ -156,7 +156,7 @@ db.products.insertMany([
       { name: "Fideos Marolio t", price: 450, tags: ["tallarines", "500"] },
       { name: "Fideos Marolio ftcni", price: 630, tags: ["fetuccinni", "500"] },
       { name: "Fideos OneWay", price: 450 },
-			{ name: "Fideos Familia Unita lanzamiento", price: 800, tags: ["tallarines", "500", "alhuevo"] }
+      { name: "Fideos Familia Unita lanzamiento", price: 800, tags: ["tallarines", "500", "alhuevo"] }
 ]);
 ```
 
