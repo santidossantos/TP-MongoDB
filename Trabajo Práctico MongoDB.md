@@ -369,7 +369,7 @@ bsas = {
 
 - Extra
     
-    Podemos imprimir el valor de la variables temporal bsas utilizando:
+    Podemos imprimir el valor de la variable temporal bsas utilizando:
     
     ```jsx
     // Opcion 1
